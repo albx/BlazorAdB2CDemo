@@ -3,11 +3,11 @@ Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio Version 17
 VisualStudioVersion = 17.1.32328.378
 MinimumVisualStudioVersion = 10.0.40219.1
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "BlazorAdB2CDemo.Server", "BlazorAdB2CDemo\Server\BlazorAdB2CDemo.Server.csproj", "{40DC3171-A2D8-4EC7-9CF0-D7DB49613578}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "BlazorAdB2CDemo.Server", "BlazorAdB2CDemo\Server\BlazorAdB2CDemo.Server.csproj", "{40DC3171-A2D8-4EC7-9CF0-D7DB49613578}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "BlazorAdB2CDemo.Client", "BlazorAdB2CDemo\Client\BlazorAdB2CDemo.Client.csproj", "{9AE6E980-A30C-4FF1-BE5F-48229010A070}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "BlazorAdB2CDemo.Client", "BlazorAdB2CDemo\Client\BlazorAdB2CDemo.Client.csproj", "{9AE6E980-A30C-4FF1-BE5F-48229010A070}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "BlazorAdB2CDemo.Shared", "BlazorAdB2CDemo\Shared\BlazorAdB2CDemo.Shared.csproj", "{3552382E-568E-4E9C-90CA-A9E5F75D3D0A}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "BlazorAdB2CDemo.Shared", "BlazorAdB2CDemo\Shared\BlazorAdB2CDemo.Shared.csproj", "{3552382E-568E-4E9C-90CA-A9E5F75D3D0A}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
